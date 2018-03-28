@@ -1,1 +1,3 @@
-# sql_mysql_framework
+# SQL-MySQL framework
+
+Framework that connects to SQL and MySQL databases using same base model. Basic user management system has been included for demonstration purposes. Also included is Yodlee integration which allows users to link their bank accounts. This framework was designed following the convention of using `id` for your primary key in your MySQL tables and any primary key in your SQL tables. Please see Model.php for more details. 
