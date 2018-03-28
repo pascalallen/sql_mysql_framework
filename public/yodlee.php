@@ -400,11 +400,11 @@
                         <h3>Sign in to access your accounts</h3>
                         <form method="POST"> 
                             <div class="form-group">
-                                <input type="text" class="form-control" id="loginName" name="loginName" value="sbMempascalallen4">
+                                <input type="text" class="form-control" id="loginName" name="loginName" value="">
                                 <small id="loginName-title" class="form-text text-muted">Username</small>
                             </div>
                             <div class="form-group">
-                                <input type="password" class="form-control" id="password" name="password" value="sbMempascalallen4#123">
+                                <input type="password" class="form-control" id="password" name="password" value="">
                                 <small id="password-title" class="form-text text-muted">Password</small>
                             </div>
                             <div class="form-group">

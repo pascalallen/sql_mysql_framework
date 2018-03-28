@@ -29,8 +29,8 @@
 
 			$parameters = [
 				'cobrand' => [
-					'cobrandLogin' => 'sbCobpascalallen',
-					'cobrandPassword' => '2b55b9a3-0bc0-4e84-b9e4-32b32c87e2e3'
+					'cobrandLogin' => 'your yodlee cobrand login',
+					'cobrandPassword' => 'your yodlee cobrand password'
 				]
 			];
 
